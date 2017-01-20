@@ -1,0 +1,64 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"auto_complete_with_fields": true,
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
+	"dpi_scale": 1.0,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"design",
+		"dist",
+		"*.jpg",
+		"*.png",
+		"*.log"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Placeholders",
+		"React ES6 Snippets",
+		"SublimeAStyleFormatter",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"settings":
+	{
+		"expand_tabs_on_save": true
+	},
+	"tab_size": 4,
+	"theme": "Dark-Material.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}

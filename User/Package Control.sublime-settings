@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control",
+		"Placeholders",
+		"React ES6 Snippets",
+		"SublimeAStyleFormatter"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Handlebars",
+		"JsFormat",
+		"Materialize",
+		"Package Control",
+		"Placeholders",
+		"React ES6 Snippets",
+		"React Templates",
+		"Sass",
+		"SassBeautify",
+		"ScopeHunter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jsxhint",
+		"SVG-Snippets",
+		"Terminal",
+		"tern_for_sublime",
+		"Theme - Dark Material",
+		"WordPress Completions"
+	]
+}

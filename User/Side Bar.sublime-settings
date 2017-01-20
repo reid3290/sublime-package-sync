@@ -1,0 +1,29 @@
+[
+    {
+        "keys": ["f1"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",//你的浏览器路径
+            "extensions": ".*" //匹配任何文件类型
+        }
+    },
+    {//firefox
+        "keys": ["f2"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:\\浏览器\\火狐\\firefox.exe",
+            "extensions": ".*"
+        }
+    },
+    { //ie
+        "keys": ["f3"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "extensions": ".*"
+        }
+    }
+]
